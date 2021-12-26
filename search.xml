@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>test</title>
+    <title>Welcome!</title>
     <url>/2021/12/26/First/</url>
-    <content><![CDATA[<p>博客重新开张啦<br>经过本人几个小时的不懈努力（应该算是吧。。）将博客重新复活，但之前的文章都无了（悲），但无关紧要<br>总之，一起期待吧</p>
+    <content><![CDATA[<p>博客重新开张啦</p>
+<span id="more"></span>
+<p>经过本人几个小时的不懈努力（应该算是吧。。）将博客重新复活，但之前的文章都无了（悲），但无关紧要<br>总之，一起期待吧</p>
 ]]></content>
   </entry>
 </search>

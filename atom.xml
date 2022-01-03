@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-01-03T01:34:40.588Z</updated>
+  <updated>2022-01-03T03:27:00.772Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/2021/12/31/happynewyear/"/>
     <id>http://example.com/2021/12/31/happynewyear/</id>
     <published>2021-12-31T14:33:23.000Z</published>
-    <updated>2022-01-03T01:34:40.588Z</updated>
+    <updated>2022-01-03T03:27:00.772Z</updated>
     
     <content type="html"><![CDATA[<p>祝大家在新的一年里身体健康，万事大吉，学习顺利！</p><span id="more"></span><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=677694746&bvid=BV1Gm4y1Q79f&cid=471695624&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; Left: 0; top: 0;" ></iframe></div>]]></content>
     
@@ -31,7 +31,7 @@
     
     
     
-    <category term="加密文章" scheme="http://example.com/tags/%E5%8A%A0%E5%AF%86%E6%96%87%E7%AB%A0/"/>
+    <category term="2022" scheme="http://example.com/tags/2022/"/>
     
   </entry>
   

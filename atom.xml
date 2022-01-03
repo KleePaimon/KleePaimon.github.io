@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>某群主的迫真博客</title>
+  
+  <subtitle>嘉心糖屁用没有</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-01-03T01:34:40.588Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>KleePaimon</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>祝各位群友及访客新年快乐！</title>
+    <link href="http://example.com/2021/12/31/happynewyear/"/>
+    <id>http://example.com/2021/12/31/happynewyear/</id>
+    <published>2021-12-31T14:33:23.000Z</published>
+    <updated>2022-01-03T01:34:40.588Z</updated>
+    
+    <content type="html"><![CDATA[<p>祝大家在新的一年里身体健康，万事大吉，学习顺利！</p><span id="more"></span><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=677694746&bvid=BV1Gm4y1Q79f&cid=471695624&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; Left: 0; top: 0;" ></iframe></div>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;祝大家在新的一年里身体健康，万事大吉，学习顺利！&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="加密文章" scheme="http://example.com/tags/%E5%8A%A0%E5%AF%86%E6%96%87%E7%AB%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>部分群友的QQ年度总结</title>
+    <link href="http://example.com/2021/12/29/yearqq/"/>
+    <id>http://example.com/2021/12/29/yearqq/</id>
+    <published>2021-12-29T11:33:22.000Z</published>
+    <updated>2021-12-29T11:35:02.289Z</updated>
+    
+    <content type="html"><![CDATA[<p>不多说，上图（请稍等，使用了CDN加速）</p><span id="more"></span><p><img src="https://cdn.jsdelivr.net/gh/KleePaimon/imga/3487a3d3e08b51ef.jpg"><br><img src="https://cdn.jsdelivr.net/gh/KleePaimon/imga/1.jpg"><br><img src="https://cdn.jsdelivr.net/gh/KleePaimon/imga/552e1478a0d2fe78.jpg"></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;不多说，上图（请稍等，使用了CDN加速）&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>图片分享第一期-来自群友分享</title>
+    <link href="http://example.com/2021/12/27/photos/"/>
+    <id>http://example.com/2021/12/27/photos/</id>
+    <published>2021-12-27T11:36:13.000Z</published>
+    <updated>2022-01-03T01:38:38.080Z</updated>
+    
+    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="请仔细检查密码是否键入正确" data-whm="似乎出错了，但内容也许能正确显示">  <script id="hbeData" type="hbeData" data-hmacdigest="b3d3a19c0e24554aa1c810c4c90f6c655616e77bc3f13599cc42586fc00676fb">7bef8fb57099037324d311b68cc3b75d4094cf8024eb5b0e00bbdaf2d7ec432a503ce64ffa8dcea1d40e62055d37f4c168f0fa4db1926370fd60cd3cc06fb1b83ad2a057c3cb79b9b302f85545fa64bf0ef59d7ab7171bf7b2692321e2e079fb260c1a66cab15961216c4430529e956b8220306c2143e074b7d95ec06ba59938cf34ee1a84dc8408a4c64d2106ff7a0fe52a3b2b7bc03b542f75507b8e27f3ab195a5fe815fb3b2033c96bd0887fd3c8467113c9bba2b49911be5ebe2912eacf2f7a37e4c883d43fc29bca41918386361dc81f0518c46e692bba6a9480fb13fb2576b42bfd91ce3ed015de5a26f2dd4fd070af42d1d0c338ff22eeae866e738bdbb850816b19a751603a1d30c1dc9bf37f3cfe6a9bec99483d59228b6bad861e5c93ec364c3124dd221d3da28519e5a121c55403941cbf1b6fb438f32d1ac02f560c17d96f3f099be0bffccd9f4feea134978bc41f624cdf04c41df68e2a8f72e23314a6179bfaa948acac22ed571ef2f967c40baa248303de7fec4afd70e82f1c06d5f2821ba4174b903302a10b8940fd4b5a4c2b2e4f46c51997df6bce11e4acabedce27ba3f9614cc9a081d9ce5a5a93bb247436fc7ad44e7e03dbca8fc798f61f7811c5cf286eda45633cf2f406b7b8ad00afe25c0d2d2c4551a50dbb186fdec75daca6459735e8620dcaddeda6296363fe468ca04eac949a4ac148ab6c65d55e96d53cc5bc3a599c5b14696c3b88e96bf95727110f755635d758344d1e99174493f24ad20681eca580a65a9ded3563e7a25013ca5db4e60cf78a16b948a5361220555a7905889f4857ea6b21fcc66bea89b8b2a83c40077098d5781e1b7487d5c6ad78cfd5e80156ff89a7a5b93c5e5fd051bfdac6ef30885c4625adb98b26f77040bd65cd3e15e655713da9b4c6bd0065a973e7a323709bda10301aa5bd28d901491d9638f11d9bbd19631ca7c12b9bb4329e3b182e47124d6f268d13c6fd83533a4a572b2e5cbe4e52ff0dc0a036753818829905301843b9a5b261ef1c9a47820164a16a3a25346db9a85b5cec678b525145954ca3b98f29af024fbbe046ecac54773ab66d0e2d181622db01846608de30807b664d2263f121a4fb88b9ea6a44a22d48e981acfb521cdf31a63211006a785899f6d44e53a4fe7b91bd7c3f21b6721ab014a399354d20a1ecee118b87a5a884c915488d2f27e45f1f1f7b535d53424d0fb4c21f72b2e086cb64e50c3144713286e60f7995b4614c55f94969b3c32d1e57fc58c4567b7c3c5287722004b92f21787d549a70f8f4fc1a55dfb03ecd76ef09329d289cf7ff4f476b396c9dd0f66fff60b3cee23f4fd5b9393cb37c8c1ec837b097c1dc99e49c7ae2338fda1ca47c90c80df4d5ac30a865732d81df8d07189ab2278b41b0ee1476ca32bd844be601f9124d2fb2a2c18fd21f93e638b9650942fd53c1b523017689421c83b97abc06ddf44649b554614f4091a9d6b6c09c699f9d100dd4c908c9949cf72580b671fa1ce5ad00e20e8d36191e4d8f60c04d1fc2bc214169e477bf93b7921c87c99467997eac8005b89ee3222c86a1267d4b508aa3306598c3ba802f3e3b1f63b97f6f95d868ed5b986bf424a3f1e1986f8d6e18775a7f4818d735a9c4c11921b95bf0247d8eecd2fd9fa3b8cc77445688a73b930964d01cd95d94eaebe6d7f1b60823bb094658d78774fe101e53419fe0323a61792021e950dc13633f05a7595bdc29e75f0b59a28120f94d0e50b7d6def654cbb4442353801a68a6ea7c573f7e11bebf81ae241e5efa45a6605e064b0b3253c667a5d4bb510b44d2521</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">请输入密码</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <summary type="html">处于锁定状态，请输入密码再试</summary>
+    
+    
+    
+    
+    <category term="加密文章" scheme="http://example.com/tags/%E5%8A%A0%E5%AF%86%E6%96%87%E7%AB%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在阿B的个人作品</title>
+    <link href="http://example.com/2021/12/26/video1/"/>
+    <id>http://example.com/2021/12/26/video1/</id>
+    <published>2021-12-26T13:24:37.000Z</published>
+    <updated>2021-12-26T13:27:32.391Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近新作</p><span id="more"></span><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=722528995&bvid=BV1GD4y1c7Sj&cid=468856344&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; Left: 0; top: 0;" ></iframe></div>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;最近新作&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Welcome!</title>
+    <link href="http://example.com/2021/12/26/First/"/>
+    <id>http://example.com/2021/12/26/First/</id>
+    <published>2021-12-26T09:04:48.000Z</published>
+    <updated>2021-12-26T12:17:23.489Z</updated>
+    
+    <content type="html"><![CDATA[<p>博客重新开张啦</p><span id="more"></span><p>经过本人几个小时的不懈努力（应该算是吧。。）将博客重新复活，但之前的文章都无了（悲），但无关紧要<br>总之，一起期待吧</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;博客重新开张啦&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>

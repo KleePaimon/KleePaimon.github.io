@@ -3,11 +3,11 @@
   <title>某群主的迫真博客</title>
   
   <subtitle>嘉心糖屁用没有</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://gdplayers233.xyz/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://gdplayers233.xyz/"/>
   <updated>2022-01-03T05:42:51.470Z</updated>
-  <id>http://example.com/</id>
+  <id>https://gdplayers233.xyz/</id>
   
   <author>
     <name>KleePaimon</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>【置顶】祝各位群友及访客新年快乐！</title>
-    <link href="http://example.com/2021/12/31/happynewyear/"/>
-    <id>http://example.com/2021/12/31/happynewyear/</id>
+    <link href="https://gdplayers233.xyz/2021/12/31/happynewyear/"/>
+    <id>https://gdplayers233.xyz/2021/12/31/happynewyear/</id>
     <published>2021-12-31T14:33:23.000Z</published>
     <updated>2022-01-03T05:42:51.470Z</updated>
     
@@ -31,14 +31,14 @@
     
     
     
-    <category term="2022" scheme="http://example.com/tags/2022/"/>
+    <category term="2022" scheme="https://gdplayers233.xyz/tags/2022/"/>
     
   </entry>
   
   <entry>
     <title>部分群友的QQ年度总结</title>
-    <link href="http://example.com/2021/12/29/yearqq/"/>
-    <id>http://example.com/2021/12/29/yearqq/</id>
+    <link href="https://gdplayers233.xyz/2021/12/29/yearqq/"/>
+    <id>https://gdplayers233.xyz/2021/12/29/yearqq/</id>
     <published>2021-12-29T11:33:22.000Z</published>
     <updated>2021-12-29T11:35:02.289Z</updated>
     
@@ -54,8 +54,8 @@
   
   <entry>
     <title>图片分享第一期-来自群友分享</title>
-    <link href="http://example.com/2021/12/27/photos/"/>
-    <id>http://example.com/2021/12/27/photos/</id>
+    <link href="https://gdplayers233.xyz/2021/12/27/photos/"/>
+    <id>https://gdplayers233.xyz/2021/12/27/photos/</id>
     <published>2021-12-27T11:36:13.000Z</published>
     <updated>2022-01-03T01:38:38.080Z</updated>
     
@@ -67,14 +67,14 @@
     
     
     
-    <category term="加密文章" scheme="http://example.com/tags/%E5%8A%A0%E5%AF%86%E6%96%87%E7%AB%A0/"/>
+    <category term="加密文章" scheme="https://gdplayers233.xyz/tags/%E5%8A%A0%E5%AF%86%E6%96%87%E7%AB%A0/"/>
     
   </entry>
   
   <entry>
     <title>在阿B的个人作品</title>
-    <link href="http://example.com/2021/12/26/video1/"/>
-    <id>http://example.com/2021/12/26/video1/</id>
+    <link href="https://gdplayers233.xyz/2021/12/26/video1/"/>
+    <id>https://gdplayers233.xyz/2021/12/26/video1/</id>
     <published>2021-12-26T13:24:37.000Z</published>
     <updated>2021-12-26T13:27:32.391Z</updated>
     
@@ -90,8 +90,8 @@
   
   <entry>
     <title>Welcome!</title>
-    <link href="http://example.com/2021/12/26/First/"/>
-    <id>http://example.com/2021/12/26/First/</id>
+    <link href="https://gdplayers233.xyz/2021/12/26/First/"/>
+    <id>https://gdplayers233.xyz/2021/12/26/First/</id>
     <published>2021-12-26T09:04:48.000Z</published>
     <updated>2021-12-26T12:17:23.489Z</updated>
     

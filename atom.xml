@@ -6,7 +6,7 @@
   <link href="https://blog.gdplay233.top/atom.xml" rel="self"/>
   
   <link href="https://blog.gdplay233.top/"/>
-  <updated>2023-11-18T09:36:33.861Z</updated>
+  <updated>2023-12-05T15:50:51.451Z</updated>
   <id>https://blog.gdplay233.top/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>PV提取系列</title>
+    <link href="https://blog.gdplay233.top/2023/12/05/ba3d%20-%20%E5%89%AF%E6%9C%AC/"/>
+    <id>https://blog.gdplay233.top/2023/12/05/ba3d%20-%20%E5%89%AF%E6%9C%AC/</id>
+    <published>2023-12-05T15:32:30.000Z</published>
+    <updated>2023-12-05T15:50:51.451Z</updated>
+    
+    <content type="html"><![CDATA[<p>提取自ブルアカ 新章节的PV，仅供分享交流之用</p><span id="more"></span><p>版权归属：Nexon&#x2F;Yostar&#x2F;MX Studio<br><a href="https://github.com/KleePaimon/Micro-CloudDisk/releases/download/IMG/Hyakkiyako_PV_IMG_Full.zip">集合压缩包</a></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;提取自ブルアカ 新章节的PV，仅供分享交流之用&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="BlueArchive/蔚藍檔案/ブルアカ" scheme="https://blog.gdplay233.top/tags/BlueArchive-%E8%94%9A%E8%97%8D%E6%AA%94%E6%A1%88-%E3%83%96%E3%83%AB%E3%82%A2%E3%82%AB/"/>
+    
+  </entry>
   
   <entry>
     <title>提取蔚藍檔案中的小人3d模型（Unity3D）</title>
